@@ -1,5 +1,7 @@
 # Bug replication
 
+This is a demo to replicate the following CRA bug: https://github.com/facebook/create-react-app/issues/11898
+
 I am getting the following error when I try to run this project:
 
 ```
@@ -61,7 +63,7 @@ This project is the end result of following these steps:
 
 ## Expectation
 
-It should run without any errors
+It should run without any errors.
 
 ## Reality
 
